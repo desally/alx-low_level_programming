@@ -1,6 +1,31 @@
-Hello World 
-0 - Write a script that runs a C file through the preprocessor and save the result into another file.
-1 - Write a script that compiles a C file but does not link.
+Hello world 
+“C” Programming Language: Brian Kernighan                                   
 
-2 - Write a script that generates the assembly code of a C code and save it in an output file.
+                                                                            
+
+Why C Programming Is Awesome                                                
+
+                                                                            
+
+Learning to program in C part 1                                             
+
+                                                                            
+
+Learning to program in C part 2                                             
+
+                                                                            
+
+Understanding C program Compilation Process                                 
+
+                                                                            
+
+Betty Coding Style                                                          
+
+                                                                            
+
+Hash-bang under the hood (Look at only after you finish consuming the other 
+
+resources)                                                                  
+
+           
 
